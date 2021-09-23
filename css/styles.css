@@ -4,6 +4,21 @@ body
     text-align: left;
     font-family: "Arial";
 }
+#header
+{
+    background: #33a;
+    box-shadow: 0px 5px 30px 0px rgba(255, 155, 155, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#header #tagline
+{
+    margin: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container
 {
     width: 70%;
